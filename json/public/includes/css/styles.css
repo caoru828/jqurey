@@ -1,0 +1,22 @@
+#search {
+    margin-top: 100px;
+    width: 250px;
+    height: 40px;
+    margin-left: 60px;
+}
+
+.table {
+    /*border:"5px solid black"*/
+    margin: "auto";
+    text-align: "center";
+    background-color: "#eee";
+    border-collapse: "collapse";
+}
+
+.ta {
+    margin-top: 80px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
